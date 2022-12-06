@@ -1,11 +1,15 @@
-# Catch The Egg
-Made just for fun. [Play it here!](https://shtange.github.io/catch-the-egg/)
+# README
 
-## Screenshot
-![alt text](https://raw.githubusercontent.com/shtange/catch-the-egg/master/catch-the-egg-screen.jpg "Catch The Egg")
+This is the [Express](https://expressjs.com) [Hello world](https://expressjs.com/en/starter/hello-world.html) example on [Render](https://render.com).
 
-## Publications
-Review on [Habrahabr](https://habr.com/ru/post/261669/) (russian language)
+The app in this repo is deployed at [https://express.onrender.com](https://express.onrender.com).
 
-## License
-Released under the [MIT License](http://www.opensource.org/licenses/mit-license.php)
+## Deployment
+
+See https://render.com/docs/deploy-node-express-app or follow the steps below:
+
+Create a new web service with the following values:
+  * Build Command: `yarn`
+  * Start Command: `node app.js`
+
+That's it! Your web service will be live on your Render URL as soon as the build finishes.
