@@ -1,5 +1,5 @@
 {
-  "name": "Emias catch the egg game",
+  "name": "emias-catch-the-egg-game",
   "version": "1.0.0",
   "description": "Express Hello World on Render",
   "main": "app.js",
